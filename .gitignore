@@ -11,3 +11,8 @@ dist
 *.tsbuildinfo
 frontend/.impeccable/review
 frontend/.impeccable/questions
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/

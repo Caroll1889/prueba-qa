@@ -110,3 +110,15 @@ pnpm test && pnpm lint && pnpm typecheck
 ```
 
 El detalle de qué cubre cada suite está en el README de cada aplicación.
+
+## Video de la evaluación técnica
+
+[Ver video de la evaluación técnica de QA — Bia Energy](https://drive.google.com/file/d/1M_E984OXg-EVUqDoIPZ0JzKSOUlZ1jfP/view?usp=sharing)
+
+## Uso de IA y herramientas
+
+Se utilizó inteligencia artificial como herramienta de apoyo durante la preparación de esta evaluación técnica, principalmente para organizar y revisar la documentación de QA, estructurar los casos de prueba y apoyar el desarrollo y la revisión del proyecto de automatización con Playwright y TypeScript.
+
+La IA se utilizó como apoyo al análisis y la documentación; los defectos reportados y los resultados de las pruebas se contrastaron con la evidencia disponible y las ejecuciones realizadas.
+
+Las pruebas automatizadas se ejecutaron con Playwright y los resultados de integración continua se verificaron mediante GitHub Actions.
